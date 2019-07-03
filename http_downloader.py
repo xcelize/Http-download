@@ -30,7 +30,5 @@ def main():
     else:
         telecharger_fichier(args[1])
 
-
-
-
-main()
+if __name__ == '__main__':
+    main()
